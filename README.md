@@ -1,37 +1,31 @@
-# _{Hello World Webpage}_
+# Hello World Webpage
 
-#### _{My first webpage ever!}, {02062017}_
+#### My first webpage ever!, 02062017
 
-#### By _**{Sara Schultz & Xi Xia}**_
+#### By Sara Schultz & Xi Xia
 
 ## Description
 
-_{This is webpage that says Hello World!}_
+This is webpage that says Hello World!
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{There is no setup required. Just open in a browser and enjoy!}_
+There is no setup required. Just open in a browser and enjoy!
 
 ## Known Bugs
 
-_{None. Perfection! }_
+None. Perfection!
 
 ## Support and contact details
 
-_{Contact Sara & Xi at Epicodus for support}_
+Contact Sara & Xi at Epicodus for support
 
 ## Technologies Used
 
-_{HTML 5}_
+HTML 5
 
 ### License
 
-*{Open Source}*
+Open Source
 
-Copyright (c) 2017 **_{Sara Schultz & Xi Xia}_**
+Copyright (c) 2017 **Sara Schultz & Xi Xia**
